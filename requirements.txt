@@ -5,4 +5,4 @@ streamlit==1.24.1
 numpy==1.24.3  # dependency for pandas and scikit-learn
 joblib==1.3.0  # needed for scikit-learn
 scipy==1.10.0  # needed for scikit-learn
-pickle5==0.0.13  # for compatibility with pickle module (optional)
+pickle5==0.0.13  # for compatibility with pickle module 
